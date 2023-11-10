@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/ocean"
+        android:duration="5000"
+        />
+
+    <item
+        android:drawable="@drawable/secondback"
+        android:duration="5000"
+        />
+
+</animation-list>
